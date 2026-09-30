@@ -11,6 +11,7 @@ const loginData = {
   password: "R@jni@123",
   baseUrl: 'https://qa-cart.com/',
 };
+//  test update
 
 const billingAddress = {
   firstName: 'Anuradha',
