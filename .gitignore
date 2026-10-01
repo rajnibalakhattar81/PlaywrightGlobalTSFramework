@@ -16,6 +16,6 @@ auth/storageState.json
 playwright.config.original.ts
 playwright.config.ts.original
 
-# OS files
+# OS files  to be ignored
 .DS_Store
 Thumbs.db
